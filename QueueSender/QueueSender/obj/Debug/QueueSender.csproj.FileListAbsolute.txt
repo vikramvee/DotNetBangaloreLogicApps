@@ -1,0 +1,1 @@
+C:\Users\SONY\Desktop\AzureLogicAppsTalk\QueueSender\QueueSender\bin\Debug\QueueSender.exe.config
